@@ -1,0 +1,6 @@
+minombre = 'jaime santiago garcia'.title()
+print(minombre)
+frase1 = 'Esta Es Una Frase Para Ser Formateada'.lower()
+print(frase1)
+frase2 = 'Esta Es Una Frase Para Ser Formateada'.upper()
+print(frase2)
